@@ -1,0 +1,121 @@
+[
+    {
+      "name": "Diogo Faria Martins",
+      "role": "Chef de projet",
+      "image": "diogo.png",
+      "social": [
+        {
+          "name": "LinkedIn",
+          "icon": "fa-brands fa-linkedin",
+          "url": "https://www.linkedin.com/in/diogo-faria-martins-9baa67242/"
+        },
+        {
+          "name": "Email",
+          "icon": "fa-solid fa-envelope",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Hugo Nini",
+      "role": "Lead Développeur Backend",
+      "image": "hugo.jpeg",
+      "social": [
+        {
+          "name": "LinkedIn",
+          "icon": "fa-brands fa-linkedin",
+          "url": "https://www.linkedin.com/in/hugo-nini-0244371bb/"
+        },
+        {
+          "name": "Email",
+          "icon": "fa-solid fa-envelope",
+          "url": "hugo.nini@epitech.eu"
+        }
+      ]
+    },
+    {
+      "name": "Yanis Labchiri",
+      "role": "Développeur Frontend",
+      "image": "yanis.jpeg",
+      "social": [
+        {
+          "name": "LinkedIn",
+          "icon": "fa-brands fa-linkedin",
+          "url": "https://www.linkedin.com/in/yanis-labchiri-b079741ba/"
+        },
+        {
+          "name": "Email",
+          "icon": "fa-solid fa-envelope",
+          "url": "yanis.labchiri@epitech.eu"
+        }
+      ]
+    },
+    {
+      "name": "Bastien Boymond",
+      "role": "Développeur Logiciel",
+      "image": "bastien.jpeg",
+      "social": [
+        {
+          "name": "LinkedIn",
+          "icon": "fa-brands fa-linkedin",
+          "url": "https://www.linkedin.com/in/bastien-boymond/"
+        },
+        {
+          "name": "Email",
+          "icon": "fa-solid fa-envelope",
+          "url": "bastien.boymond@epitech.eu"
+        }
+      ]
+    },
+    {
+      "name": "Tom Bartuzel",
+      "role": "Développeur Mobile",
+      "image": "tom.jpeg",
+      "social": [
+        {
+          "name": "LinkedIn",
+          "icon": "fa-brands fa-linkedin",
+          "url": "https://www.linkedin.com/in/tom-bartuzel/"
+        },
+        {
+          "name": "Email",
+          "icon": "fa-solid fa-envelope",
+          "url": "tom.bartuzel@epitech.eu"
+        }
+      ]
+    },
+    {
+      "name": "William Piloz",
+      "role": "Développeur Frontend",
+      "image": "william.jpg",
+      "social": [
+        {
+          "name": "LinkedIn",
+          "icon": "fa-brands fa-linkedin",
+          "url": "https://www.linkedin.com/in/william-piloz-0604a1204/"
+        },
+        {
+          "name": "Email",
+          "icon": "fa-solid fa-envelope",
+          "url": "william.piloz@epitech.eu"
+        }
+      ]
+    },
+    {
+      "name": "Laurent Amat",
+      "role": "Développeur Mobile",
+      "image": "laurent.jpg",
+      "social": [
+        {
+          "name": "LinkedIn",
+          "icon": "fa-brands fa-linkedin",
+          "url": "https://www.linkedin.com/in/lqvrent"
+        },
+        {
+          "name": "Email",
+          "icon": "fa-solid fa-envelope",
+          "url": "laurent.amat@epitech.eu"
+        }
+      ]
+    }
+]

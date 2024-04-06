@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Idéation du projet",
+        "timestamp": "2023",
+        "description": "Durant cette phase, nous avons contacté des personnes du milieu de la livraison pour comprendre leurs besoins et les défis auxquels ils sont confrontés dans la gestion des plannings de livraison.",
+        "link": "",
+        "linkText": "",
+        "image": "group_diagora.png"
+    },
+    {
+        "title": "MVP (Minimum Viable Product)",
+        "timestamp": "2023",
+        "description": "Nous avons développé un MVP de Diagora, une version initiale de notre solution comprenant les fonctionnalités essentielles pour résoudre le problème de gestion des plannings de livraison.",
+        "link": "",
+        "linkText": "",
+        "video": "EIP_TeaserV2.mp4"
+    },
+    {
+        "title": "Alpha de notre projet",
+        "timestamp": "2024",
+        "description": "Nous avons développé la première version Alpha de Diagora, intégrant les fonctionnalités de base.",
+        "link": "",
+        "linkText": "",
+        "image": "alpha.png"
+    },
+    {
+        "title": "Beta de notre projet",
+        "timestamp": "2024",
+        "description": "La version Beta de Diagora est en cours de développement, avec des fonctionnalités plus avancées et une meilleure stabilité. Nous sommes prêts à recueillir les commentaires des premiers utilisateurs.",
+        "link": "",
+        "linkText": "",
+        "image": "beta.png"
+    }
+]

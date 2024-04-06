@@ -1,0 +1,990 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1440px;
+height: 1326px;
+
+background: #E8E9ED;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 310px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1371px;
+height: 66.6px;
+left: 36px;
+top: 24.4px;
+
+
+
+/* gesture nexus  LOGO 1 */
+
+position: absolute;
+width: 163px;
+height: 66px;
+left: 36px;
+top: 25px;
+
+background: url(gesture nexus  LOGO.png);
+
+
+/* Vector */
+
+position: absolute;
+left: 93.4%;
+right: 2.29%;
+top: 1.84%;
+bottom: 95.86%;
+
+background: #F8F8F8;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 333px;
+height: 450px;
+left: 149px;
+top: 226px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 331px;
+height: 450px;
+left: 149px;
+top: 226px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 261px;
+top: 277px;
+
+background: url(WhatsApp Image 2023-03-23 at 01.34.39.jpg);
+border-radius: 10px;
+
+
+/* Sahil Das Gupta */
+
+position: absolute;
+width: 172px;
+height: 13px;
+left: 239px;
+top: 402px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #000000;
+
+
+
+/* PRODUCT DESIGNER */
+
+position: absolute;
+width: 211px;
+height: 13px;
+left: 271px;
+top: 426px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 15px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #000000;
+
+
+
+/* Product design as a verb is to create a new product to be sold by a business to its customers. */
+
+position: absolute;
+width: 266px;
+height: 85px;
+left: 182px;
+top: 475px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Facebook */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 232px;
+top: 611px;
+
+background: url(.png);
+
+
+/* Instagram */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 276px;
+top: 611px;
+
+background: url(.png);
+
+
+/* Linkedin */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 322px;
+top: 611px;
+
+background: url(.png);
+
+
+/* Twitter */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 366px;
+top: 611px;
+
+background: url(.png);
+
+
+/* Group 6 */
+
+position: absolute;
+width: 333px;
+height: 450px;
+left: 149px;
+top: 728px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 331px;
+height: 450px;
+left: 149px;
+top: 728px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 261px;
+top: 779px;
+
+background: url(IMG_20230208_135008 (1).jpg);
+border-radius: 10px;
+
+
+/* SAYAN BHOWAL */
+
+position: absolute;
+width: 172px;
+height: 13px;
+left: 239px;
+top: 904px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #000000;
+
+
+
+/* PRODUCT DESIGNER */
+
+position: absolute;
+width: 211px;
+height: 13px;
+left: 271px;
+top: 928px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 15px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #000000;
+
+
+
+/* Product design as a verb is to create a new product to be sold by a business to its customers. */
+
+position: absolute;
+width: 266px;
+height: 85px;
+left: 182px;
+top: 977px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Facebook */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 232px;
+top: 1113px;
+
+background: url(.png);
+
+
+/* Instagram */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 276px;
+top: 1113px;
+
+background: url(.png);
+
+
+/* Linkedin */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 322px;
+top: 1113px;
+
+background: url(.png);
+
+
+/* Twitter */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 366px;
+top: 1113px;
+
+background: url(.png);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 333px;
+height: 450px;
+left: 561px;
+top: 226px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 331px;
+height: 450px;
+left: 561px;
+top: 226px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 673px;
+top: 277px;
+
+background: url(WhatsApp Image 2023-04-21 at 00.31.21.jpg);
+border-radius: 10px;
+
+
+/* Saunak Das */
+
+position: absolute;
+width: 172px;
+height: 13px;
+left: 666px;
+top: 402px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #000000;
+
+
+
+/* PRODUCT DESIGNER */
+
+position: absolute;
+width: 211px;
+height: 13px;
+left: 683px;
+top: 426px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 15px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #000000;
+
+
+
+/* Product design as a verb is to create a new product to be sold by a business to its customers. */
+
+position: absolute;
+width: 266px;
+height: 85px;
+left: 594px;
+top: 475px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Facebook */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 644px;
+top: 611px;
+
+background: url(.png);
+
+
+/* Instagram */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 688px;
+top: 611px;
+
+background: url(.png);
+
+
+/* Linkedin */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 734px;
+top: 611px;
+
+background: url(.png);
+
+
+/* Twitter */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 778px;
+top: 611px;
+
+background: url(.png);
+
+
+/* Group 7 */
+
+position: absolute;
+width: 333px;
+height: 450px;
+left: 561px;
+top: 728px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 331px;
+height: 450px;
+left: 561px;
+top: 728px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 673px;
+top: 779px;
+
+background: url(WhatsApp Image 2023-04-21 at 00.30.00.jpg);
+border-radius: 10px;
+
+
+/* name */
+
+position: absolute;
+width: 172px;
+height: 13px;
+left: 699px;
+top: 904px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #000000;
+
+
+
+/* PRODUCT DESIGNER */
+
+position: absolute;
+width: 211px;
+height: 13px;
+left: 683px;
+top: 928px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 15px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #000000;
+
+
+
+/* Product design as a verb is to create a new product to be sold by a business to its customers. */
+
+position: absolute;
+width: 266px;
+height: 85px;
+left: 594px;
+top: 977px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Facebook */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 644px;
+top: 1113px;
+
+background: url(.png);
+
+
+/* Instagram */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 688px;
+top: 1113px;
+
+background: url(.png);
+
+
+/* Linkedin */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 734px;
+top: 1113px;
+
+background: url(.png);
+
+
+/* Twitter */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 778px;
+top: 1113px;
+
+background: url(.png);
+
+
+/* Group 5 */
+
+position: absolute;
+width: 333px;
+height: 450px;
+left: 973px;
+top: 226px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 331px;
+height: 450px;
+left: 973px;
+top: 226px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 1085px;
+top: 277px;
+
+background: url(WhatsApp Image 2023-04-21 at 00.30.15.jpg);
+border-radius: 10px;
+
+
+/* Supiryo Mitra */
+
+position: absolute;
+width: 172px;
+height: 13px;
+left: 1066px;
+top: 402px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #000000;
+
+
+
+/* PRODUCT DESIGNER */
+
+position: absolute;
+width: 211px;
+height: 13px;
+left: 1095px;
+top: 426px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 15px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #000000;
+
+
+
+/* Product design as a verb is to create a new product to be sold by a business to its customers. */
+
+position: absolute;
+width: 266px;
+height: 85px;
+left: 1006px;
+top: 475px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Facebook */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 1056px;
+top: 611px;
+
+background: url(.png);
+
+
+/* Instagram */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 1100px;
+top: 611px;
+
+background: url(.png);
+
+
+/* Linkedin */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 1146px;
+top: 611px;
+
+background: url(.png);
+
+
+/* Twitter */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 1190px;
+top: 611px;
+
+background: url(.png);
+
+
+/* Group 8 */
+
+position: absolute;
+width: 333px;
+height: 450px;
+left: 973px;
+top: 728px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 331px;
+height: 450px;
+left: 973px;
+top: 728px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 1085px;
+top: 779px;
+
+background: url(250770.jpg);
+border-radius: 10px;
+
+
+/* name */
+
+position: absolute;
+width: 172px;
+height: 13px;
+left: 1112px;
+top: 904px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #000000;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 1123px;
+top: 861px;
+
+
+
+/* PRODUCT DESIGNER */
+
+position: absolute;
+width: 211px;
+height: 13px;
+left: 1095px;
+top: 928px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 15px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #000000;
+
+
+
+/* Product design as a verb is to create a new product to be sold by a business to its customers. */
+
+position: absolute;
+width: 266px;
+height: 85px;
+left: 1006px;
+top: 977px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Facebook */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 1056px;
+top: 1113px;
+
+background: url(.png);
+
+
+/* Instagram */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 1100px;
+top: 1113px;
+
+background: url(.png);
+
+
+/* Linkedin */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 1146px;
+top: 1113px;
+
+background: url(.png);
+
+
+/* Twitter */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 1190px;
+top: 1113px;
+
+background: url(.png);
+
+
+/* OUR TEAM */
+
+position: absolute;
+width: 302px;
+height: 64px;
+left: 601px;
+top: 122px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 47px;
+line-height: 70px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #FFFFFF;
+

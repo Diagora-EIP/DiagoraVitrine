@@ -1,0 +1,29 @@
+[
+  {
+      "title": "Planning Intelligent",
+      "points": [
+          "Permet de planifier efficacement les livraisons en fonction des adresses, des dates et des horaires spécifiés.",
+          "Optimise les trajets en tenant compte de la taille des colis, des livraisons déjà planifiées et de la récurrence des commandes.",
+          "Capable de gérer les livraisons de dernière minute en réorganisant le planning de manière optimale."
+      ],
+      "description": "Diagora est une solution pour les entreprises de livraison principalement des PME,  Diagora intègre un système de génération d'itinéraire pour optimiser les trajets ainsi qu'un planning intelligent permettant un gain de temps considérable dans l'organisation des livraisons. Cela permettra une meilleure gestion du temps et des ressources pour une organisation efficace des livraisons. Pendant la période d'idéation, nous avons contacté des personnes du milieu de la livraison et nous nous sommes rendu compte que le secteur de la livraison n'était pas digitalisé. Par exemple, les plannings de livraison sont écrits à la main et pris en photo par les livreurs pour effectuer. Diagora est une solution qui permettra aux différentes entreprises de simplifier les planifications de leurs livraisons. Par exemple, il suffira de rentrer les adresses de livraisons avec une date, la possibilité de rentrer une horaire pour la livraison, et Diagora se chargera de trouver quand et à quel livreur il sera le plus favorable de réaliser la livraison. Diagora prendra en compte la taille du colis si celle-ci est spécifiée, ainsi que les livraisons déjà planifiées pour prévoir les trajets les plus optimaux pour chaque livreur. Notre solution sera aussi capable de prévoir de futures livraisons. Pour ce faire, nous prendrons en compte plusieurs paramètres comme la récurrence des commandes, en nous basant sur leur historique de commande ainsi que sur une étude du marché. Un autre atout est que si une livraison de dernière minute est ajoutée, notre planning intelligent sera capable de réorganiser tout le planning pour que celui-ci reste le plus optimal possible. La deuxième partie de la solution est en continuité avec la précédente. Notre système de génération d'itinéraire poussé calculera le trajet le plus optimal pour chaque livreur en prenant en compte plusieurs paramètres tels que la taille du camion, son poids, le facteur humain, c'est-à-dire éviter les sorties d'écoles et les routes engorgées. Avec cette partie de la solution, le livreur aura accès via son téléphone au système de navigation inclus dans notre application. Il pourra y retrouver le détail de chaque livraison, l'heure de livraison prévue et bien sûr la vue d'ensemble de son trajet. La dernière partie du projet permet aux entreprises d'avoir accès à des statistiques. Tout d'abord, avec un historique avancé des livraisons mettant en avant toutes les variations. Nous proposons également l'accès à un graphique permettant de voir les consommations de carburant à l'année en parallèle d'une évaluation en électrique afin de pousser les entreprises à changer de véhicule."
+  },
+  {
+      "title": "Itinéraire adapté",
+      "points": [
+          "Calcule le trajet le plus optimal pour chaque livreur en prenant en compte plusieurs paramètres comme la taille du camion, son poids et le facteur humain.",
+          "Fournit un système de navigation inclus dans l'application pour que le livreur puisse accéder aux détails de chaque livraison et à la vue d'ensemble de son trajet.",
+          "Permet aux entreprises d'avoir accès à des statistiques avancées sur les livraisons, y compris les variations et les consommations de carburant."
+      ],
+      "description": "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet velit vitae sem pretium varius. Integer congue lectus nec libero rutrum, eget ultrices lorem commodo. Duis sodales enim vitae dapibus ultrices."
+  },
+  {
+      "title": "Système de Navigation Inclus",
+      "points": [
+          "Fournit aux livreurs un accès facile aux détails de chaque livraison et à la vue d'ensemble de leur trajet via une application mobile.",
+          "Permet de visualiser les heures de livraison prévues et de suivre le détail de chaque itinéraire pour une exécution plus efficace.",
+          "Intègre des fonctionnalités de navigation avancées pour éviter les embouteillages et optimiser les temps de trajet."
+      ],
+      "description": "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet velit vitae sem pretium varius. Integer congue lectus nec libero rutrum, eget ultrices lorem commodo. Duis sodales enim vitae dapibus ultrices."
+  }
+]
