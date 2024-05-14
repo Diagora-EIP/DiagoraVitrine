@@ -1,7 +1,7 @@
 [
     {
         "title": "Idéation du projet",
-        "timestamp": "2023",
+        "timestamp": "2023-01-01",
         "description": "Durant cette phase, nous avons contacté des personnes du milieu de la livraison pour comprendre leurs besoins et les défis auxquels ils sont confrontés dans la gestion des plannings de livraison.",
         "link": "",
         "linkText": "",
@@ -9,15 +9,39 @@
     },
     {
         "title": "MVP (Minimum Viable Product)",
-        "timestamp": "2023",
+        "timestamp": "2023-03-01",
         "description": "Nous avons développé un MVP de Diagora, une version initiale de notre solution comprenant les fonctionnalités essentielles pour résoudre le problème de gestion des plannings de livraison.",
         "link": "",
         "linkText": "",
         "video": "EIP_TeaserV2.mp4"
     },
     {
+        "title": "1ER RENDEZ-VOUS",
+        "timestamp": "2023/03/13/",
+        "description": "La première rencontre de l'équipe Diagora notre référente.",
+        "link": "",
+        "linkText": "",
+        "image": "1errdv.jpg"
+    },
+    {
+        "title": "TEST & LEARN",
+        "timestamp": "2023/04/04",
+        "description": "Séance de tests et d'apprentissage pour l'équipe Diagora. Un moment crucial pour perfectionner nos compétences et nos processus.",
+        "link": "",
+        "linkText": "",
+        "image": "test.png"
+    },
+    {
+        "title": "MANAGEMENT & PROCESS",
+        "timestamp": "2023/07/06",
+        "description": "Réunion de gestion et de mise en place des processus. L'occasion pour l'équipe Diagora d'optimiser son fonctionnement et ses performances.",
+        "link": "",
+        "linkText": "",
+        "image": "reunion.png"
+    },
+    {
         "title": "Alpha de notre projet",
-        "timestamp": "2024",
+        "timestamp": "2023/11/09",
         "description": "Nous avons développé la première version Alpha de Diagora, intégrant les fonctionnalités de base.",
         "link": "",
         "linkText": "",
@@ -25,7 +49,7 @@
     },
     {
         "title": "Beta de notre projet",
-        "timestamp": "2024",
+        "timestamp": "2024/08/02",
         "description": "La version Beta de Diagora est en cours de développement, avec des fonctionnalités plus avancées et une meilleure stabilité. Nous sommes prêts à recueillir les commentaires des premiers utilisateurs.",
         "link": "",
         "linkText": "",

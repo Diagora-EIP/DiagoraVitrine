@@ -2,7 +2,7 @@
   <header :class="{ scrolled_nav: scrollPosition }">
     <nav>
       <div class="branding">
-        <img src="@/assets/Logo.png" alt="" />
+        <img @click="smoothScroll('#home')" src="@/assets/Logo.png" alt="" />
       </div>
       <ul v-show="!mobile" class="navigation">
         <li><a class="link" @click="smoothScroll('#home')">Accueil</a></li>
@@ -128,9 +128,16 @@ header {
     .branding {
       display: flex;
       align-items: center;
+      background-color: #ffffff;
+      border-radius: 100%;
+      overflow: hidden;
+      cursor: pointer;
       img {
-        width: 50px;
+        width: 58px;
+        height: 58px;
         transition: 0.5s ease all;
+        transform: scale(0.8);
+        overflow: hidden;
       }
     }
 
@@ -139,9 +146,9 @@ header {
       align-items: center;
       flex: 1;
       justify-content: flex-end;
-    }
-    .navigation:hover {
-      cursor: pointer;
+      a {
+        cursor: pointer;
+      }
     }
     .icon {
       z-index: 3;
